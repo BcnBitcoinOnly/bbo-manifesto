@@ -4,7 +4,7 @@
 
 _Manifiesto criptoanarquista_ - Thimothy C., Mayo de 1988
 
-Los cypherpunks empezaron a agruparse dentro de una comunidad para desarrollar, compartir y hacer frente, juntos, a su visión de un mundo digital de vigilancia y control extremo. Lo que ellos ya empezaron a vislumbrar en los 70, llega hasta nuestros días con más fuerza que nunca; sistemas de vigilancia pública, tráfico de datos entre compañías y gobiernos, biometría, crédito social y demás mecanismos han venido cogiendo fuerza desde aquellos primeros bits que lanzaron los cypherpunks.
+Los _cypherpunks_ empezaron a agruparse dentro de una comunidad para desarrollar, compartir y hacer frente, juntos, a su visión de un mundo digital de vigilancia y control extremo. Lo que ellos ya empezaron a vislumbrar en los 70, llega hasta nuestros días con más fuerza que nunca; sistemas de vigilancia pública, tráfico de datos entre compañías y gobiernos, biometría, crédito social y demás mecanismos han venido cogiendo fuerza desde aquellos primeros bits que lanzaron los _cypherpunks_.
 
 Con la llegada de la revolución Industrial, la tecnología y la producción en masa, nuestra sociedad llegó a un nuevo nivel. Desde este punto, la generación irracional de deuda, el exceso de regulación en el sector bancario, los crecientes costos económicos de la violencia y el gasto militar han permitido a los estados nación expropiar mucha riqueza a lo largo de nuestra historia moderna. Debido a esto, consideramos importante declarar activamente, día a día, nuestra libertad, soberanía e inclusión financiera, negarnos a la tiranía y denunciar estos actos criminales.
 
@@ -30,7 +30,7 @@ Hoy la libertad no puede, sino ser conseguida a través de la privacidad, una pr
 
 Esto termina aquí, y esto termina ahora.
 
-A través de la criptografía y el trabajo de nuestros antecesores cypherpunks se ha conseguido, por primera vez en la historia, un modelo de consenso global, el cual está abriendo debates fundamentales y permitiendo la inclusión en la economía global a las pequeñas economías, masacradas por la violencia e imposición tiránica de los grandes estados nación. Nosotros solo estamos cogiendo el testigo de nuestros antecesores, reconociendo este hecho y agrupándonos bajo él. Hace falta enfrentarse a la realidad, reflexionar, debatir y hacer, nosotros estamos dispuestos a ello.
+A través de la criptografía y el trabajo de nuestros antecesores _cypherpunks_ se ha conseguido, por primera vez en la historia, un modelo de consenso global, el cual está abriendo debates fundamentales y permitiendo la inclusión en la economía global a las pequeñas economías, masacradas por la violencia e imposición tiránica de los grandes estados nación. Nosotros solo estamos cogiendo el testigo de nuestros antecesores, reconociendo este hecho y agrupándonos bajo él. Hace falta enfrentarse a la realidad, reflexionar, debatir y hacer, nosotros estamos dispuestos a ello.
 
 Nuestra moneda es Bitcoin, nuestra organización es abierta y transparente, nuestras mentes son libres, nuestras herramientas también.
 
