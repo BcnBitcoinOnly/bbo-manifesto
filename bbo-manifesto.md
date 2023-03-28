@@ -1,5 +1,8 @@
 ## Manifesto BBO
-<<Un espectro está surgiendo en el mundo moderno, el espectro de la criptoanarquía.>> “Manifiesto criptoanarquista” Thimothy C. May 1988
+
+> Un espectro está surgiendo en el mundo moderno, el espectro de la criptoanarquía. 
+
+_Manifiesto criptoanarquista_ - Thimothy C., Mayo de 1988
 
 Los cypherpunks empezaron a agruparse dentro de una comunidad para desarrollar, compartir y hacer frente, juntos, a su visión de un mundo digital de vigilancia y control extremo. Lo que ellos ya empezaron a vislumbrar en los 70, llega hasta nuestros días con más fuerza que nunca; sistemas de vigilancia pública, tráfico de datos entre compañías y gobiernos, biometría, crédito social y demás mecanismos han venido cogiendo fuerza desde aquellos primeros bits que lanzaron los cypherpunks.
 
