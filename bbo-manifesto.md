@@ -16,17 +16,17 @@ Sabemos que el software libre, así como las ideas, no pueden ser destruidas si 
 
 Hoy la libertad no puede, sino ser conseguida a través de la privacidad, una privacidad que sencillamente significa “el poder de revelarse selectivamente al mundo”, una privacidad que cada vez es más complicada de obtener. La privacidad es esencial para una sociedad abierta en la era de internet. Dicha privacidad, en una sociedad abierta, necesita de criptografía, y para que esta se extienda, debe formar parte del contrato social. **La privacidad solo llega hasta donde llega la cooperación entre individuos y comunidades.** La gente debe venir y desplegar juntos estos sistemas para el bien común. Nuestra sociedad necesita de individuos conscientes y con voluntad de proteger la privacidad, que sepan utilizar y transmitir las herramientas necesarias para ello.
 
-Necesitamos crear comunidades comprometidas que nos proporcionen pertenencia, tanto en Internet como en nuestras ciudades.
+- Necesitamos crear comunidades comprometidas que nos proporcionen pertenencia, tanto en Internet como en nuestras ciudades.
 
-Necesitamos usar las herramientas de las que disponemos para protegernos de la nueva violencia, que es más digital que física.
+- Necesitamos usar las herramientas de las que disponemos para protegernos de la nueva violencia, que es más digital que física.
 
-Necesitamos replantear la educación para así dar rienda suelta a nuestra creatividad y desplegar nuestro intelecto.
+- Necesitamos replantear la educación para así dar rienda suelta a nuestra creatividad y desplegar nuestro intelecto.
 
-Necesitamos mecanismos para combatir la desinformación y la propagación de información falsa sin caer en la censura
+- Necesitamos mecanismos para combatir la desinformación y la propagación de información falsa sin caer en la censura
 
-Nosotros, construyendo esta comunidad, nos declaramos individuos libres y soberanos. Trabajamos para crear espacios físicos y digitales donde alojar el desarrollo y despliegue de sistemas alternativos, apoyar el software libre y su trasmisión, promover la libertad digital, la inclusión y soberanía financiera, dar espacio al intelecto, la independencia intelectual y la privacidad.
+- Nosotros, construyendo esta comunidad, nos declaramos individuos libres y soberanos. Trabajamos para crear espacios físicos y digitales donde alojar el desarrollo y despliegue de sistemas alternativos, apoyar el software libre y su trasmisión, promover la libertad digital, la inclusión y soberanía financiera, dar espacio al intelecto, la independencia intelectual y la privacidad.
 
-No necesitamos vuestros viejos mecanismos oxidados que, por primera vez en mucho tiempo, están a punto de colapsar por su propio peso. No podemos confiar en vuestras promesas, monedas y sistemas financieros exclusivos y represivos, tampoco os podemos confiar nuestra educación, salud, nuestro planeta ni su futuro. No renunciaremos a todas nuestras libertades individuales a cambio de vuestra supuesta protección.
+- No necesitamos vuestros viejos mecanismos oxidados que, por primera vez en mucho tiempo, están a punto de colapsar por su propio peso. No podemos confiar en vuestras promesas, monedas y sistemas financieros exclusivos y represivos, tampoco os podemos confiar nuestra educación, salud, nuestro planeta ni su futuro. No renunciaremos a todas nuestras libertades individuales a cambio de vuestra supuesta protección.
 
 Esto termina aquí, y esto termina ahora.
 
