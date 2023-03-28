@@ -35,7 +35,7 @@ Con suficientes de nosotros alrededor del mundo, no solo enviaremos un fuerte me
 
 ¿Te unirás a nosotros?
 
-Bitcoin Barcelona Only - 21/03/2023
+Barcelona Bitcoin Only - 21/03/2023
 
 ---
 
